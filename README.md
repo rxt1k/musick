@@ -2,15 +2,16 @@
 
 # 🎵 Musick — Flow with the Sound
 
-> A modern, lightweight music streaming web application
+> A modern, lightweight music streaming web application built with React, TypeScript, and Vite
 
 [![GitHub stars](https://img.shields.io/github/stars/rxt1k/musick?style=social)](https://github.com/rxt1k/musick/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/rxt1k/musick?style=social)](https://github.com/rxt1k/musick/forks)
 [![GitHub watchers](https://img.shields.io/github/watchers/rxt1k/musick?style=social)](https://github.com/rxt1k/musick/watchers)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)](https://www.netlify.com/)
 
 ---
 
@@ -27,14 +28,15 @@
 - ▶️ **Built-in Audio Player** - Play songs directly in your browser
 - 🎨 **Dark Theme UI** - Modern, eye-friendly dark interface
 - 📱 **Fully Responsive** - Works on desktop, tablet, and mobile
-- ⚡ **No Server Needed** - Runs completely in your browser
+- ⚡ **Fast & Lightweight** - Built with Vite for optimal performance
+- 🛡️ **Type Safe** - Written in TypeScript for better reliability
 - 🆓 **Completely Free** - No registration required
 
 ---
 
 ## 📸 Screenshots
 
-<img width="1905" height="935" alt="image" src="https://github.com/user-attachments/assets/2a14bed6-0595-43b8-8ffd-949e7ff4f2b6" />
+<img width="1905" height="935" alt="image" src="https://github.com/user-attachments/assets/a6708836-6f15-4e62-9614-9ccdf8e27d21" />
 
 
 ---
@@ -43,16 +45,10 @@
 
 | Technology | Purpose |
 | :--- | :--- |
-| **HTML5** | Structure |
-| **CSS3** | Styling & Animations |
-| **JavaScript (ES6+)** | Functionality |
+| **React 18** | UI Framework |
+| **TypeScript** | Type Safety |
+| **Vite** | Build Tool & Dev Server |
+| **ESLint** | Code Quality |
+| **Netlify** | Hosting & Deployment |
 
 ---
-
-## 📦 Installation
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/rxt1k/musick.git
-cd musick
